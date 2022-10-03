@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo/exit_file.png</file>
+        <file>logo/file_printer.png</file>
+        <file>logo/flag_eng.png</file>
+        <file>logo/flag_rus.png</file>
+        <file>logo/help.txt</file>
+        <file>logo/help_file.png</file>
+        <file>logo/logo.png</file>
+        <file>logo/new_file.png</file>
+        <file>logo/open_file.png</file>
+        <file>logo/open_readonly_file.png</file>
+        <file>logo/save_file.png</file>
+    </qresource>
+</RCC>
