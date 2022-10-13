@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Add_dialog.qml</file>
+        <file>Msg_box.qml</file>
+    </qresource>
+</RCC>
